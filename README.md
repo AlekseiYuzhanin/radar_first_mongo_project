@@ -29,7 +29,7 @@ example@user:~/radar_first_mongo_project$ npm install
 example@user:~/radar_first_mongo_project$ npx webpack
 example@user:~/radar_first_mongo_project$ npm start
 ```
-
+Примечание: для использования локальной сборки, необходимо заменить данные в .env файле, на нужные вам для подключения.
 ## Docker :
 
 ```console
