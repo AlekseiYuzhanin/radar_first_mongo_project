@@ -29,3 +29,11 @@ example@user:~/radar_first_mongo_project$ npm install
 example@user:~/radar_first_mongo_project$ npx webpack
 example@user:~/radar_first_mongo_project$ npm start
 ```
+
+## Docker :
+
+```console
+example@user:~/$ git clone https://github.com/AlekseiYuzhanin/radar_first_mongo_project
+example@user:~/$ cd radar_first_mongo_project
+example@user:~/radar_first_mongo_project$ docker-compose up --build
+```
