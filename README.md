@@ -23,6 +23,7 @@
 ## Локально :
 
 ```console
-foo@bar:~$ whoami
-foo
+example@user:~/radar_first_mongo_project$ npm install
+example@user:~/radar_first_mongo_project$ npx webpack
+example@user:~/radar_first_mongo_project$ npm start
 ```
