@@ -42,7 +42,7 @@
 
 # Инструкция запуска :
 ## Локально :
-
+Необходимое ПО: node.js, mongodb.
 ```console
 example@user:~/$ git clone https://github.com/AlekseiYuzhanin/radar_first_mongo_project
 example@user:~/$ cd radar_first_mongo_project
@@ -52,7 +52,7 @@ example@user:~/radar_first_mongo_project$ npm start
 ```
 Примечание: для использования локальной сборки, необходимо заменить данные в .env файле, на нужные вам для подключения.
 ## Docker :
-
+Необходимое ПО: Docker
 ```console
 example@user:~/$ git clone https://github.com/AlekseiYuzhanin/radar_first_mongo_project
 example@user:~/$ cd radar_first_mongo_project
